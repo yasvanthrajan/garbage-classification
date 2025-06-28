@@ -24,3 +24,14 @@ You can view the notebook [here](./week1_exploration.ipynb)
 ---
 
 📌 *This is Week 1 submission for the internship project.*
+
+
+## 📚 Week 2: Model Training
+
+- Implemented CNN using TensorFlow & Keras
+- Trained the model using ImageDataGenerator
+- Saved accuracy plot for visual representation
+
+📈 ![Model Accuracy](./Week2/model_accuracy_plot.png)
+
+📌 *This is Week 2 submission for the internship project.*
