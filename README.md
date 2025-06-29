@@ -32,6 +32,6 @@ You can view the notebook [here](./week1_exploration.ipynb)
 - Trained the model using ImageDataGenerator
 - Saved accuracy plot for visual representation
 
-📈 ![Model Accuracy](./Week2/model_accuracy_plot.png)
+
 
 📌 *This is Week 2 submission for the internship project.*
